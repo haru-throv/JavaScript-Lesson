@@ -221,7 +221,7 @@ switch(true) {
 
 // let's spend 15 minutes tryign to complete :50
 
-let myNumber = 15
+let myNumber = 30
 
 if (myNumber % 15 === 0) {
 	console.log("Fizz Buzz")
