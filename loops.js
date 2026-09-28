@@ -121,9 +121,9 @@ while (count <= 10) {
 
 let newCount = 10
 
-while (count >= 0) {
-	console.log(count)
-	count--
+while (newCount >= 0) {
+	console.log(newCount)
+	newCount -=1
 }
 
 console.log("Blast off!")
